@@ -1,7 +1,7 @@
-@import url(ttps://fonts.google.com/specimen/Red+Hat+Display);
+@import url(https://fonts.google.com/specimen/Red+Hat+Display);
 
 body {
-    
+    font-size: 16px;
 }
 
 p {
